@@ -1,5 +1,5 @@
 apt-get update
-apt-get install apahce2 -y
+apt-get install apache2 -y
 cd /var/www/html
 sudo su
 >index.html
